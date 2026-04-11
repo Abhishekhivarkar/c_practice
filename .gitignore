@@ -1,0 +1,11 @@
+# compiled files
+*.exe
+*.out
+*.o
+*.a
+
+# temp files
+*.log
+*.tmp
+.txt
+*.out
