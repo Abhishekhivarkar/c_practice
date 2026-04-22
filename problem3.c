@@ -8,4 +8,4 @@ int main(){
   sum = sum + a[i];
  }
  printf("sum is : %d",sum);
-}
+} 
