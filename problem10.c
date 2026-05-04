@@ -9,7 +9,7 @@ int main(){
  if(a[i] > firstLargest){
   secondLargest = firstLargest;
   firstLargest = a[i]; 
- }
+ } 
  }
   printf("%d firstLargest\n",firstLargest); 
 printf("%d secondLargest",secondLargest);
