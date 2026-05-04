@@ -11,6 +11,6 @@ int main(){
   firstLargest = a[i];
  }
  }
-  printf("%d firstLargest\n",firstLargest);
+  printf("%d firstLargest\n",firstLargest); 
 printf("%d secondLargest",secondLargest);
 }
