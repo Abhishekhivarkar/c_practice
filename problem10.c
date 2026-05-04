@@ -8,7 +8,7 @@ int main(){
  for(i = 1; i<length; i++){
  if(a[i] > firstLargest){
   secondLargest = firstLargest;
-  firstLargest = a[i];
+  firstLargest = a[i]; 
  }
  }
   printf("%d firstLargest\n",firstLargest); 
