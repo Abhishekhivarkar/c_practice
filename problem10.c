@@ -7,7 +7,7 @@ int main(){
  int length = sizeof(a) / sizeof(a[0]);
  for(i = 1; i<length; i++){
  if(a[i] > firstLargest){
-  secondLargest = firstLargest;
+  secondLargest = firstLargest; 
   firstLargest = a[i]; 
  } 
  }
